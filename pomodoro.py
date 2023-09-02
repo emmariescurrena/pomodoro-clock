@@ -26,4 +26,4 @@ while True:
         print("Insert a number")
 
 clear()
-print(workTime, restTime)
+print(workTime, restTime
